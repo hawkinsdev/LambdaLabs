@@ -1,0 +1,24 @@
+uno:  
+  title: "Cien años de soledad"
+  year_publication: 1967
+  autor: one
+
+dos:
+  title: "El otoño del patriarca"
+  year_publication: 1975
+  autor: one
+
+tres:
+  title: "Harry Potter y la piedra filosofal"
+  year_publication: 1997
+  autor: one
+
+cuatro:
+  title: "Harry Potter y la cámara secreta"
+  year_publication: 1998
+  autor: two
+
+cinco:
+  title: "Norwegian Wood"
+  year_publication: 1987
+  autor: two
